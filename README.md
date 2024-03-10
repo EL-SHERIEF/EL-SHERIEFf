@@ -7,8 +7,12 @@
     <a href="https://www.instagram.com/5alojack/">
   <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20323.png" width="30" alt="Instagram Link"  />
 </a>
+
     <a href="https://www.linkedin.com/in/elsherief/">
   <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20324.png" width="30" alt="LinkedIn Link"  />
+</a>
+    <a href="https://twitter.com/3laaElsherief">
+  <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/twitter.png" width="30" alt="Twitter Link"  />
 </a>
     <a href="https://el-sherief.github.io/">
   <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20325.png" width="30" alt="Website Portfolio Link"  />
