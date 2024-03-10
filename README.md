@@ -8,7 +8,7 @@
   <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20323.png" width="30" alt="Instagram Link"  />
 </a>
 
-    <a href="https://www.linkedin.com/in/elsherief/">
+   <a href="https://www.linkedin.com/in/elsherief/">
   <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20324.png" width="30" alt="LinkedIn Link"  />
 </a>
     <a href="https://twitter.com/3laaElsherief">
