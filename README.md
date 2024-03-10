@@ -1,26 +1,25 @@
 <div align="center">
-    <div align="left">
-    
-  </div>
-  <div align="right">
-    <a href="https://www.facebook.com/Dev.Elsherief/">
-  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20322.png" width="80" alt="facebook Link"  />
+
+
+<a href="https://www.facebook.com/Dev.Elsherief/">
+  <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20322.png" width="30" alt="facebook Link"  />
 </a>
     <a href="https://www.instagram.com/5alojack/">
-  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20323.png" width="80" alt="Instagram Link"  />
+  <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20323.png" width="30" alt="Instagram Link"  />
 </a>
     <a href="https://www.linkedin.com/in/elsherief/">
-  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20324.png" width="80" alt="LinkedIn Link"  />
+  <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20324.png" width="30" alt="LinkedIn Link"  />
 </a>
     <a href="https://el-sherief.github.io/">
-  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20325.png" width="80" alt="Website Portfolio Link"  />
+  <img  align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20325.png" width="30" alt="Website Portfolio Link"  />
 </a>
-  </div>
+
 </div>
 
 
 <div align="center">
-  <br><br>
+      <br>
+  <br>
 <a href="https://el-sherief.github.io/">
   <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/bg.png" width="100%" alt="My logo"  />
 </a>
